@@ -29,7 +29,7 @@
     {"name": "react-native-pdf", "version":"6.6.2", "platform": 3},
     {"name": "react-native-blob-util", "version":"0.16.4", "platform": 3},
 
-    {"name": "QuecRNDeviceModule", "version":"1.7.2-beta.1", "platform": 3},
+    {"name": "QuecRNDeviceModule", "version":"1.6.8", "platform": 3},
     {"name": "QuecRNRouterModule", "version":"1.1.7", "platform": 3},
     {"name": "QuecRNUserModule", "version":"1.0.4", "platform": 3},
     {"name": "QuecRNMusicModule", "version":"1.0.9", "platform": 3},
